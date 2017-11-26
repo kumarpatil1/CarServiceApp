@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="carservice" match-name="address_type"/>
+  <table-filter match-catalog="carservice" match-name="city"/>
+  <table-filter match-catalog="carservice" match-name="country"/>
+  <table-filter match-catalog="carservice" match-name="cust_demand"/>
+  <table-filter match-catalog="carservice" match-name="customer"/>
+  <table-filter match-catalog="carservice" match-name="customer_address"/>
+  <table-filter match-catalog="carservice" match-name="customer_demanded_repairs"/>
+  <table-filter match-catalog="carservice" match-name="customer_email"/>
+  <table-filter match-catalog="carservice" match-name="customer_phone"/>
+  <table-filter match-catalog="carservice" match-name="delivery_status_type"/>
+  <table-filter match-catalog="carservice" match-name="demand_additional_ job_description"/>
+  <table-filter match-catalog="carservice" match-name="designation"/>
+  <table-filter match-catalog="carservice" match-name="email_type"/>
+  <table-filter match-catalog="carservice" match-name="employee"/>
+  <table-filter match-catalog="carservice" match-name="employee_address"/>
+  <table-filter match-catalog="carservice" match-name="employee_email"/>
+  <table-filter match-catalog="carservice" match-name="employee_phone"/>
+  <table-filter match-catalog="carservice" match-name="employee_role"/>
+  <table-filter match-catalog="carservice" match-name="empoyee_id_proof"/>
+  <table-filter match-catalog="carservice" match-name="error"/>
+  <table-filter match-catalog="carservice" match-name="fuel_type"/>
+  <table-filter match-catalog="carservice" match-name="id_proof"/>
+  <table-filter match-catalog="carservice" match-name="inside_car"/>
+  <table-filter match-catalog="carservice" match-name="inside_hood"/>
+  <table-filter match-catalog="carservice" match-name="inventory"/>
+  <table-filter match-catalog="carservice" match-name="job_card"/>
+  <table-filter match-catalog="carservice" match-name="keep_inventory"/>
+  <table-filter match-catalog="carservice" match-name="login"/>
+  <table-filter match-catalog="carservice" match-name="make"/>
+  <table-filter match-catalog="carservice" match-name="model"/>
+  <table-filter match-catalog="carservice" match-name="outside_car"/>
+  <table-filter match-catalog="carservice" match-name="outsourced_job_description"/>
+  <table-filter match-catalog="carservice" match-name="phone_type"/>
+  <table-filter match-catalog="carservice" match-name="repair_parts"/>
+  <table-filter match-catalog="carservice" match-name="role"/>
+  <table-filter match-catalog="carservice" match-name="security"/>
+  <table-filter match-catalog="carservice" match-name="service"/>
+  <table-filter match-catalog="carservice" match-name="state"/>
+  <table-filter match-catalog="carservice" match-name="status"/>
+  <table-filter match-catalog="carservice" match-name="under_body"/>
+  <table-filter match-catalog="carservice" match-name="vechical_part"/>
+  <table-filter match-catalog="carservice" match-name="vechical_registration"/>
+</hibernate-reverse-engineering>
